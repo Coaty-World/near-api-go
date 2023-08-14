@@ -1,4 +1,4 @@
-module github.com/textileio/near-api-go
+module github.com/Coaty-World/near-api-go
 
 go 1.16
 

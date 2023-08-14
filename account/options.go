@@ -3,7 +3,7 @@ package account
 import (
 	"encoding/base64"
 
-	itypes "github.com/textileio/near-api-go/internal/types"
+	itypes "github.com/Coaty-World/near-api-go/internal/types"
 )
 
 // ViewStateOption controls the behavior when calling ViewState.

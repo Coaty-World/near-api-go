@@ -6,11 +6,11 @@ import (
 	"encoding/json"
 	"fmt"
 
+	"github.com/Coaty-World/near-api-go/account"
+	itypes "github.com/Coaty-World/near-api-go/internal/types"
+	"github.com/Coaty-World/near-api-go/types"
+	"github.com/Coaty-World/near-api-go/util"
 	"github.com/ethereum/go-ethereum/rpc"
-	"github.com/textileio/near-api-go/account"
-	itypes "github.com/textileio/near-api-go/internal/types"
-	"github.com/textileio/near-api-go/types"
-	"github.com/textileio/near-api-go/util"
 )
 
 // CallFunctionResponse holds information about the result of a function call.
